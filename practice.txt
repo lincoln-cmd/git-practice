@@ -5,3 +5,6 @@ Hola. Me llamo Felipe.
 저는 한국인 입니다.
 I am korean.
 Soy coreano.
+저는 음악을 좋아합니다.
+I love music.
+Me gusta musica.
