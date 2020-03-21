@@ -2,3 +2,6 @@
 Hello. My name is Lincoln.
 Hola. Me llamo Felipe.
 저는 웹 개발자 입니다.
+저는 한국인 입니다.
+I am korean.
+Soy coreano.
